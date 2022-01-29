@@ -11,5 +11,5 @@ My first semester at MIT, my roommate liked to keep the door locked, but I absol
 </br>
 
 If you'd like to see more, see the YouTube video my roommate made of it!</br>
-&nbsp;
+&nbsp;&nbsp;
 [Building a device to unlock my door through the peephole](https://www.youtube.com/watch?v=Daz3UvsgPgE)
