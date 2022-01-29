@@ -10,7 +10,7 @@ Project tasks included CAD modeling, arduino electrical circuit design and imple
 </p>
 </br>
 </br>
-Later, I was contracted again to build a fly monitor system also for the high pressure chamber. Normal cameras have difficulty focusing at extremely high pressure. Nor do most autofocus cameras have the range needed to focus at high pressure. I built a system for remote focus with a manual focus camera and dimable lights. Additionally, the system monitors and controls temperature and humidity. </br></br>
+Later, I was contracted again to build a fly monitor system also for the high pressure chamber. Normal cameras have difficulty focusing at extremely high pressure. Nor do most autofocus cameras have the range needed to focus at high pressure. I built a system for remote focus with a manual focus camera and dimable lights. Additionally, the system monitors and controls temperature, humidity, and fly fan speed. </br></br>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/85134229/151650120-dac10039-aff8-4616-a7b6-1a9e76f6fbbc.png" | width=500/ > 
 </p>
